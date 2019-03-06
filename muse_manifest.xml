@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ecowuaylla.com" resolutions="1x" timestamp="1551899223163">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ecowuaylla.com" resolutions="1x" timestamp="1551912619013">
   <folder name="css">
     <file name="site_global.css" crc="326492391"/>
     <file name="nosotros.css" crc="399962233" ref="nosotros"/>
@@ -7,8 +7,8 @@
     <file name="nomq_contacto.css" crc="3882910931" ref="contacto"/>
     <file name="catalogo.css" crc="3922889925" ref="catalogo"/>
     <file name="nomq_catalogo.css" crc="4179422982" ref="catalogo"/>
-    <file name="index.css" crc="4013834168" ref="index"/>
-    <file name="nomq_index.css" crc="158580897" ref="index"/>
+    <file name="index.css" crc="242645877" ref="index"/>
+    <file name="nomq_index.css" crc="4114013687" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="hover-min.css" crc="3881979905" seo="true" mt="1528710275000"/>
@@ -495,16 +495,13 @@
     <file name="pared-de-madera.jpg" crc="9588075" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="cliente - (1)-u36024.png" crc="408220045" ref="index"/>
     <file name="cliente - (11)-u36114.png" crc="105379662" ref="index"/>
     <file name="cliente - (2)-u36033.png" crc="436465573" ref="index"/>
-    <file name="cliente - (12)-u36123.png" crc="339046471" ref="index"/>
     <file name="u34105-4.png" crc="4174675931" ref="index"/>
     <file name="cliente - (3)-u36042.png" crc="4219369579" ref="index"/>
     <file name="cliente - (4)-u36051.png" crc="4187961126" ref="index"/>
     <file name="cliente - (5)-u36060.png" crc="3999043635" ref="index"/>
     <file name="cliente - (6)-u36069.png" crc="4201922903" ref="index"/>
-    <file name="cliente - (7)-u36078.png" crc="4062448971" ref="index"/>
     <file name="cliente - (8)-u36087.png" crc="43296298" ref="index"/>
     <file name="cliente - (13)-u36132.png" crc="4132519924" ref="index"/>
     <file name="cliente - (14)-u36141.png" crc="3882753305" ref="index"/>
@@ -512,14 +509,10 @@
     <file name="cliente - (16)-u36159.png" crc="4201143444" ref="index"/>
     <file name="cliente - (17)-u36168.png" crc="256773266" ref="index"/>
     <file name="cliente - (18)-u36177.png" crc="4214805098" ref="index"/>
-    <file name="cliente - (21)-u36204.png" crc="3761187928" ref="index"/>
     <file name="cliente - (22)-u36213.png" crc="429910053" ref="index"/>
-    <file name="cliente - (23)-u36222.png" crc="302271106" ref="index"/>
     <file name="cliente - (24)-u36231.png" crc="5445436" ref="index"/>
     <file name="cliente - (25)-u36240.png" crc="3778459236" ref="index"/>
-    <file name="cliente - (9)-u36096.png" crc="4005534807" ref="index"/>
     <file name="cliente - (19)-u36186.png" crc="3958600271" ref="index"/>
-    <file name="cliente - (10)-u36105.png" crc="244484832" ref="index"/>
     <file name="cliente - (20)-u36195.png" crc="4275970374" ref="index"/>
     <file name="u895.png" crc="495552992" ref="index"/>
     <file name="u895-r.png" crc="3834709032" ref="index"/>
@@ -561,7 +554,6 @@
     <file name="u3751-42.png" crc="79362298" ref="index"/>
     <file name="u3778-42.png" crc="492554999" ref="index"/>
     <file name="u3796-42.png" crc="480067111" ref="index"/>
-    <file name="cliente - (1)-u360242.png" crc="438474886" ref="index"/>
     <file name="cliente - (11)-u361142.png" crc="3797095432" ref="index"/>
     <file name="u34105-42.png" crc="486140169" ref="index"/>
     <file name="cliente - (2)-u360332.png" crc="3900086959" ref="index"/>
@@ -569,10 +561,7 @@
     <file name="cliente - (4)-u360512.png" crc="3993706959" ref="index"/>
     <file name="cliente - (5)-u360602.png" crc="93174575" ref="index"/>
     <file name="cliente - (6)-u360692.png" crc="414414177" ref="index"/>
-    <file name="cliente - (7)-u360782.png" crc="20022282" ref="index"/>
     <file name="cliente - (8)-u360872.png" crc="44209122" ref="index"/>
-    <file name="cliente - (9)-u360962.png" crc="77252690" ref="index"/>
-    <file name="cliente - (12)-u361232.png" crc="302491266" ref="index"/>
     <file name="cliente - (13)-u361322.png" crc="143016151" ref="index"/>
     <file name="cliente - (14)-u361412.png" crc="342573623" ref="index"/>
     <file name="cliente - (15)-u361502.png" crc="130773436" ref="index"/>
@@ -580,12 +569,9 @@
     <file name="cliente - (17)-u361682.png" crc="321649266" ref="index"/>
     <file name="cliente - (18)-u361772.png" crc="173727198" ref="index"/>
     <file name="cliente - (19)-u361862.png" crc="526780821" ref="index"/>
-    <file name="cliente - (21)-u362042.png" crc="4043539521" ref="index"/>
     <file name="cliente - (22)-u362132.png" crc="61294399" ref="index"/>
-    <file name="cliente - (23)-u362222.png" crc="4282942547" ref="index"/>
     <file name="cliente - (24)-u362312.png" crc="4067141742" ref="index"/>
     <file name="cliente - (25)-u362402.png" crc="29302467" ref="index"/>
-    <file name="cliente - (10)-u361052.png" crc="3994319461" ref="index"/>
     <file name="cliente - (20)-u361952.png" crc="325278274" ref="index"/>
     <file name="u8952.png" crc="495552992" ref="index"/>
     <file name="u895-r2.png" crc="3834709032" ref="index"/>
@@ -615,9 +601,7 @@
     <file name="cliente - (4)-u360513.png" crc="3850650870" ref="index"/>
     <file name="cliente - (5)-u360603.png" crc="4114908010" ref="index"/>
     <file name="cliente - (6)-u360693.png" crc="3961281958" ref="index"/>
-    <file name="cliente - (7)-u360783.png" crc="94189554" ref="index"/>
     <file name="cliente - (8)-u360873.png" crc="348636955" ref="index"/>
-    <file name="cliente - (12)-u361233.png" crc="519973799" ref="index"/>
     <file name="cliente - (13)-u361323.png" crc="4004466841" ref="index"/>
     <file name="cliente - (14)-u361413.png" crc="366218440" ref="index"/>
     <file name="cliente - (15)-u361503.png" crc="122582071" ref="index"/>
@@ -625,15 +609,10 @@
     <file name="cliente - (17)-u361683.png" crc="273971959" ref="index"/>
     <file name="cliente - (18)-u361773.png" crc="386226346" ref="index"/>
     <file name="cliente - (11)-u361143.png" crc="3999831028" ref="index"/>
-    <file name="cliente - (21)-u362043.png" crc="4024544420" ref="index"/>
     <file name="cliente - (22)-u362133.png" crc="178449800" ref="index"/>
-    <file name="cliente - (23)-u362223.png" crc="4015804701" ref="index"/>
     <file name="cliente - (24)-u362313.png" crc="4121504863" ref="index"/>
     <file name="cliente - (25)-u362403.png" crc="4267273903" ref="index"/>
     <file name="cliente - (20)-u361953.png" crc="3853297877" ref="index"/>
-    <file name="cliente - (1)-u360243.png" crc="4098554443" ref="index"/>
-    <file name="cliente - (10)-u361053.png" crc="4113348243" ref="index"/>
-    <file name="cliente - (9)-u360963.png" crc="4255692671" ref="index"/>
     <file name="cliente - (19)-u361863.png" crc="27409636" ref="index"/>
     <file name="u8953.png" crc="495552992" ref="index"/>
     <file name="u895-r3.png" crc="3834709032" ref="index"/>
@@ -658,29 +637,22 @@
     <file name="8-u6691-fr2.jpg" crc="3861807873" ref="index"/>
     <file name="9-u6692-fr2.jpg" crc="3919723496" ref="index"/>
     <file name="u34105-44.png" crc="4016380482" ref="index"/>
-    <file name="cliente - (1)-u360244.png" crc="311078671" ref="index"/>
     <file name="cliente - (2)-u360334.png" crc="246918110" ref="index"/>
     <file name="cliente - (3)-u360424.png" crc="4151139848" ref="index"/>
     <file name="cliente - (4)-u360514.png" crc="450758890" ref="index"/>
     <file name="cliente - (5)-u360604.png" crc="517689277" ref="index"/>
     <file name="cliente - (6)-u360694.png" crc="87169781" ref="index"/>
-    <file name="cliente - (7)-u360784.png" crc="277773920" ref="index"/>
     <file name="cliente - (11)-u361144.png" crc="4138556451" ref="index"/>
-    <file name="cliente - (12)-u361234.png" crc="231165845" ref="index"/>
     <file name="cliente - (13)-u361324.png" crc="3763300749" ref="index"/>
     <file name="cliente - (14)-u361414.png" crc="4171534752" ref="index"/>
     <file name="cliente - (15)-u361504.png" crc="3924778812" ref="index"/>
     <file name="cliente - (16)-u361594.png" crc="455335378" ref="index"/>
     <file name="cliente - (17)-u361684.png" crc="102829392" ref="index"/>
-    <file name="cliente - (21)-u362044.png" crc="481353781" ref="index"/>
     <file name="cliente - (22)-u362134.png" crc="69455343" ref="index"/>
-    <file name="cliente - (23)-u362224.png" crc="467467244" ref="index"/>
     <file name="cliente - (24)-u362314.png" crc="3986104939" ref="index"/>
     <file name="cliente - (25)-u362404.png" crc="318399741" ref="index"/>
     <file name="cliente - (20)-u361954.png" crc="3870384391" ref="index"/>
-    <file name="cliente - (10)-u361054.png" crc="188289381" ref="index"/>
     <file name="cliente - (18)-u361774.png" crc="4026772629" ref="index"/>
-    <file name="cliente - (9)-u360964.png" crc="295730058" ref="index"/>
     <file name="cliente - (8)-u360874.png" crc="291281929" ref="index"/>
     <file name="cliente - (19)-u361864.png" crc="212616521" ref="index"/>
     <file name="u8954.png" crc="495552992" ref="index"/>
@@ -715,27 +687,20 @@
     <file name="8-u6691-fr3.jpg" crc="322171955" ref="index"/>
     <file name="9-u6692-fr3.jpg" crc="4269445356" ref="index"/>
     <file name="u34105-45.png" crc="4221493847" ref="index"/>
-    <file name="cliente - (1)-u360245.png" crc="3911375508" ref="index"/>
     <file name="cliente - (2)-u360335.png" crc="95175228" ref="index"/>
     <file name="cliente - (3)-u360425.png" crc="531930009" ref="index"/>
     <file name="cliente - (4)-u360515.png" crc="3843691883" ref="index"/>
     <file name="cliente - (5)-u360605.png" crc="3845290914" ref="index"/>
     <file name="cliente - (11)-u361145.png" crc="437760551" ref="index"/>
-    <file name="cliente - (12)-u361235.png" crc="157799094" ref="index"/>
     <file name="cliente - (13)-u361325.png" crc="3776076770" ref="index"/>
     <file name="cliente - (14)-u361415.png" crc="4086784962" ref="index"/>
     <file name="cliente - (15)-u361505.png" crc="72120081" ref="index"/>
-    <file name="cliente - (21)-u362045.png" crc="265518604" ref="index"/>
     <file name="cliente - (22)-u362135.png" crc="4161779014" ref="index"/>
-    <file name="cliente - (23)-u362225.png" crc="3860390833" ref="index"/>
     <file name="cliente - (24)-u362315.png" crc="11479418" ref="index"/>
     <file name="cliente - (25)-u362405.png" crc="3919924842" ref="index"/>
     <file name="cliente - (8)-u360875.png" crc="325941167" ref="index"/>
-    <file name="cliente - (9)-u360965.png" crc="3853378950" ref="index"/>
     <file name="cliente - (18)-u361775.png" crc="305387322" ref="index"/>
     <file name="cliente - (19)-u361865.png" crc="179153448" ref="index"/>
-    <file name="cliente - (7)-u360785.png" crc="4074303930" ref="index"/>
-    <file name="cliente - (10)-u361055.png" crc="236980993" ref="index"/>
     <file name="cliente - (6)-u360695.png" crc="4038776604" ref="index"/>
     <file name="cliente - (16)-u361595.png" crc="3973003252" ref="index"/>
     <file name="cliente - (20)-u361955.png" crc="3875027027" ref="index"/>
@@ -773,31 +738,24 @@
     <file name="8-u6691-fr4.jpg" crc="3923190579" ref="index"/>
     <file name="9-u6692-fr4.jpg" crc="3925560312" ref="index"/>
     <file name="u34105-46.png" crc="181358933" ref="index"/>
-    <file name="cliente - (1)-u360246.png" crc="4151956118" ref="index"/>
     <file name="cliente - (2)-u360336.png" crc="156967165" ref="index"/>
     <file name="cliente - (3)-u360426.png" crc="334782796" ref="index"/>
     <file name="cliente - (4)-u360516.png" crc="4079061308" ref="index"/>
     <file name="cliente - (5)-u360606.png" crc="4247538275" ref="index"/>
     <file name="cliente - (11)-u361146.png" crc="4294612335" ref="index"/>
-    <file name="cliente - (12)-u361236.png" crc="393255048" ref="index"/>
     <file name="cliente - (13)-u361326.png" crc="3965954186" ref="index"/>
     <file name="cliente - (14)-u361416.png" crc="3884188471" ref="index"/>
     <file name="cliente - (15)-u361506.png" crc="4061955977" ref="index"/>
-    <file name="cliente - (21)-u362046.png" crc="153134696" ref="index"/>
     <file name="cliente - (22)-u362136.png" crc="22457948" ref="index"/>
-    <file name="cliente - (23)-u362226.png" crc="4291887281" ref="index"/>
     <file name="cliente - (24)-u362316.png" crc="4180483338" ref="index"/>
     <file name="cliente - (25)-u362406.png" crc="4158659990" ref="index"/>
     <file name="cliente - (20)-u361956.png" crc="384077925" ref="index"/>
-    <file name="cliente - (10)-u361056.png" crc="448335352" ref="index"/>
     <file name="cliente - (16)-u361596.png" crc="4094307552" ref="index"/>
     <file name="cliente - (6)-u360696.png" crc="270477214" ref="index"/>
-    <file name="cliente - (7)-u360786.png" crc="130472702" ref="index"/>
     <file name="cliente - (17)-u361686.png" crc="3993279526" ref="index"/>
     <file name="cliente - (18)-u361776.png" crc="420515020" ref="index"/>
     <file name="cliente - (8)-u360876.png" crc="4088039451" ref="index"/>
     <file name="cliente - (19)-u361866.png" crc="4001644073" ref="index"/>
-    <file name="cliente - (9)-u360966.png" crc="467110611" ref="index"/>
     <file name="menu_mobil_cerrado_mesa de trabajo 1_mesa de trabajo 1.png" crc="4124484402" ref="index:nosotros:catalogo:contacto">
       <caption webpage="index" alt=" "/>
       <caption webpage="index" alt=" "/>
@@ -846,31 +804,24 @@
     <file name="mesa_madera-u5124-fr5.jpg" crc="4141879441" ref="index"/>
     <file name="pared-de-madera-u34055-fr.jpg" crc="426693931" ref="index"/>
     <file name="u34105-47.png" crc="455118564" ref="index"/>
-    <file name="cliente - (1)-u360247.png" crc="310464451" ref="index"/>
     <file name="cliente - (2)-u360337.png" crc="4197398116" ref="index"/>
     <file name="cliente - (3)-u360427.png" crc="5306841" ref="index"/>
     <file name="cliente - (4)-u360517.png" crc="470980604" ref="index"/>
     <file name="cliente - (5)-u360607.png" crc="311215282" ref="index"/>
     <file name="cliente - (11)-u361147.png" crc="4219328251" ref="index"/>
-    <file name="cliente - (12)-u361237.png" crc="4256790328" ref="index"/>
     <file name="cliente - (13)-u361327.png" crc="3976846339" ref="index"/>
     <file name="cliente - (14)-u361417.png" crc="10341777" ref="index"/>
     <file name="cliente - (15)-u361507.png" crc="3846697975" ref="index"/>
-    <file name="cliente - (21)-u362047.png" crc="243675903" ref="index"/>
     <file name="cliente - (22)-u362137.png" crc="503300588" ref="index"/>
-    <file name="cliente - (23)-u362227.png" crc="3838400914" ref="index"/>
     <file name="cliente - (24)-u362317.png" crc="4285814965" ref="index"/>
     <file name="cliente - (25)-u362407.png" crc="3904363494" ref="index"/>
     <file name="cliente - (16)-u361597.png" crc="477038395" ref="index"/>
     <file name="cliente - (6)-u360697.png" crc="3822652869" ref="index"/>
-    <file name="cliente - (7)-u360787.png" crc="342930501" ref="index"/>
     <file name="cliente - (17)-u361687.png" crc="276775985" ref="index"/>
     <file name="cliente - (18)-u361777.png" crc="3791157424" ref="index"/>
     <file name="cliente - (8)-u360877.png" crc="111245479" ref="index"/>
-    <file name="cliente - (9)-u360967.png" crc="4050274019" ref="index"/>
     <file name="cliente - (19)-u361867.png" crc="4223652275" ref="index"/>
     <file name="cliente - (20)-u361957.png" crc="3789759893" ref="index"/>
-    <file name="cliente - (10)-u361057.png" crc="300911395" ref="index"/>
     <file name="u1377.png" crc="193852060" ref="index"/>
     <file name="u1377-r.png" crc="336299607" ref="index"/>
     <file name="u1396.png" crc="360197189" ref="index"/>
@@ -1337,8 +1288,57 @@
     <file name="u30957-66.png" crc="4123327911" ref="contacto"/>
     <file name="contactos-u30956-fr2.jpg" crc="158778580" ref="contacto"/>
     <file name="u30957-67.png" crc="177491245" ref="contacto"/>
+    <file name="jimmymesa de trabajo 9-u36024.png" crc="348231573" ref="index"/>
+    <file name="jimmymesa de trabajo 3-u36123.png" crc="4021707381" ref="index"/>
+    <file name="jimmymesa de trabajo 8-u36078.png" crc="336826383" ref="index"/>
+    <file name="jimmymesa de trabajo 5-u36204.png" crc="4054745874" ref="index"/>
+    <file name="jimmymesa de trabajo 6-u36222.png" crc="121710155" ref="index"/>
+    <file name="jimmymesa de trabajo 10-u36096.png" crc="511187075" ref="index"/>
+    <file name="jimmymesa de trabajo 7-u36105.png" crc="3995340314" ref="index"/>
+    <file name="jimmymesa de trabajo 9-u360242.png" crc="4193726513" ref="index"/>
+    <file name="jimmymesa de trabajo 8-u360782.png" crc="4280475965" ref="index"/>
+    <file name="jimmymesa de trabajo 10-u360962.png" crc="3851148957" ref="index"/>
+    <file name="jimmymesa de trabajo 3-u361232.png" crc="3962294304" ref="index"/>
+    <file name="jimmymesa de trabajo 5-u362042.png" crc="496166591" ref="index"/>
+    <file name="jimmymesa de trabajo 6-u362222.png" crc="500926234" ref="index"/>
+    <file name="jimmymesa de trabajo 7-u361052.png" crc="154324520" ref="index"/>
+    <file name="jimmymesa de trabajo 8-u360783.png" crc="13709113" ref="index"/>
+    <file name="jimmymesa de trabajo 3-u361233.png" crc="184550376" ref="index"/>
+    <file name="jimmymesa de trabajo 5-u362043.png" crc="3934072564" ref="index"/>
+    <file name="jimmymesa de trabajo 6-u362223.png" crc="4025162977" ref="index"/>
+    <file name="jimmymesa de trabajo 9-u360243.png" crc="4021042229" ref="index"/>
+    <file name="jimmymesa de trabajo 7-u361053.png" crc="405142553" ref="index"/>
+    <file name="jimmymesa de trabajo 10-u360963.png" crc="3816396097" ref="index"/>
+    <file name="jimmymesa de trabajo 9-u360244.png" crc="436690786" ref="index"/>
+    <file name="jimmymesa de trabajo 8-u360784.png" crc="4187510080" ref="index"/>
+    <file name="jimmymesa de trabajo 3-u361234.png" crc="519053801" ref="index"/>
+    <file name="jimmymesa de trabajo 5-u362044.png" crc="4146348540" ref="index"/>
+    <file name="jimmymesa de trabajo 6-u362224.png" crc="4062347302" ref="index"/>
+    <file name="jimmymesa de trabajo 7-u361054.png" crc="3920904657" ref="index"/>
+    <file name="jimmymesa de trabajo 10-u360964.png" crc="281040921" ref="index"/>
+    <file name="jimmymesa de trabajo 9-u360245.png" crc="3848257249" ref="index"/>
+    <file name="jimmymesa de trabajo 3-u361235.png" crc="300596708" ref="index"/>
+    <file name="jimmymesa de trabajo 5-u362045.png" crc="375638042" ref="index"/>
+    <file name="jimmymesa de trabajo 6-u362225.png" crc="34836962" ref="index"/>
+    <file name="jimmymesa de trabajo 10-u360965.png" crc="125103034" ref="index"/>
+    <file name="jimmymesa de trabajo 8-u360785.png" crc="534427022" ref="index"/>
+    <file name="jimmymesa de trabajo 7-u361055.png" crc="499298815" ref="index"/>
+    <file name="jimmymesa de trabajo 9-u360246.png" crc="79735714" ref="index"/>
+    <file name="jimmymesa de trabajo 3-u361236.png" crc="4228379360" ref="index"/>
+    <file name="jimmymesa de trabajo 5-u362046.png" crc="186748083" ref="index"/>
+    <file name="jimmymesa de trabajo 6-u362226.png" crc="4023779577" ref="index"/>
+    <file name="jimmymesa de trabajo 7-u361056.png" crc="106757734" ref="index"/>
+    <file name="jimmymesa de trabajo 8-u360786.png" crc="4040911526" ref="index"/>
+    <file name="jimmymesa de trabajo 10-u360966.png" crc="4178065975" ref="index"/>
+    <file name="jimmymesa de trabajo 9-u360247.png" crc="4260575505" ref="index"/>
+    <file name="jimmymesa de trabajo 3-u361237.png" crc="3904196116" ref="index"/>
+    <file name="jimmymesa de trabajo 5-u362047.png" crc="479978047" ref="index"/>
+    <file name="jimmymesa de trabajo 6-u362227.png" crc="27551948" ref="index"/>
+    <file name="jimmymesa de trabajo 8-u360787.png" crc="3772800441" ref="index"/>
+    <file name="jimmymesa de trabajo 10-u360967.png" crc="3819031309" ref="index"/>
+    <file name="jimmymesa de trabajo 7-u361057.png" crc="105828450" ref="index"/>
   </folder>
-  <file name="index.html" crc="319914780" seo="true" mt="1551895497077" redirect="true"/>
+  <file name="index.html" crc="25240611" seo="true" mt="1551912610095" redirect="true"/>
   <file name="nosotros.html" crc="390026967" seo="true" mt="1551892332346" redirect="true"/>
   <file name="catalogo.html" crc="3886294394" seo="true" mt="1551899197869" redirect="true"/>
   <file name="contacto.html" crc="475961117" seo="true" mt="1551892332346" redirect="true"/>
